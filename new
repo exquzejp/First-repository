@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "initial commit"
+git remote and origin <https://github.com/exquzejp/First-repository/new/main>
+git push -u origin main
